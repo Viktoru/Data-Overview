@@ -1,0 +1,9 @@
+#mvu.menu:
+#  title: Data Overview
+#  url: internal:/data/ajax-response
+#  description: 'Data overview menu'
+#  parent: main
+#  menu_name: main
+#  route_name: mvu.content
+#  expanded: TRUE
+#  weight: 100

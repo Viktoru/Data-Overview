@@ -1,0 +1,20 @@
+mvu:
+  version: 1.0
+  css:
+    theme:
+      css/mvu.css: {}
+      css/style.css: {}
+      css/collapsibles.css: {}
+
+  js:
+    js/mvu.js: {}
+
+  dependencies:
+    - core/jquery
+datatables:
+  version: 1.10.18
+  css:
+    theme:
+      libs/DataTables/datatables.min.css: {}
+  js:
+    libs/DataTables/datatables.min.js: {}

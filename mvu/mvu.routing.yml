@@ -1,0 +1,15 @@
+mvu.content:
+  path: '/data/ajax-response'
+  defaults:
+    _controller: '\Drupal\mvu\Controller\MvuController::mvlist'
+    _title: 'Data Overview'
+  requirements:
+    _permission: 'access content'
+
+mvu.ajax:
+  path: '/data/mvu/load'
+  defaults:
+    _controller: '\Drupal\mvu\Controller\MvuController::loadCultivar'
+    _title: 'Load Cultivar'
+  requirements:
+    _permission: 'access content'

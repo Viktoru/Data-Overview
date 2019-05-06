@@ -1,0 +1,12 @@
+# this intallation needs more work. Creating a Content type.
+# Please, find more info from my modules mlfruitandnut for examples.
+
+#type: mvu_mytypz
+#name: Data Overview List
+#description: 'Use <em>DOL</em> content to get to Drupal 8 development better.'
+#help: ''
+#new_revision: false
+#display_submitted: true
+#preview_mode: 1
+#status: true
+#langcode: en
