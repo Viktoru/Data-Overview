@@ -9,7 +9,7 @@ See a glimpse about the module. Open this [video](https://vimeo.com/user96450320
 A. Cloning an Existing Repository  
 ```bash
 
-git clone https://gitlab.com/mainlabwsu/mainlab_list_ajax.git
+git clone https://github.com/Viktoru/Data-Overview.git
 
 ```
 B. Drag and drop the Custom module Data Overview - mainlab files to your "Custom" folder or "modules" folder.
